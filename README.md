@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/xOYEgFz.png"> 
 </a>
 
-<a href="[https://deaglegenerator.vercel.app/](https://deaglememo.netlify.app/)" target="_blank">
+<a href="https://deaglegenerator.vercel.app/" target="_blank">
   <img src="https://i.imgur.com/HEBbjmj.png"> 
 </a>
 
