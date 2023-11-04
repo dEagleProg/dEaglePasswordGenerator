@@ -3,11 +3,11 @@
 ## Preview
 
 <a href="https://deaglegenerator.vercel.app/" target="_blank">
-  <img src="https://i.imgur.com/e9coOM3.png"> 
+  <img src="https://i.imgur.com/xOYEgFz.png"> 
 </a>
 
-<a href="https://deaglegenerator.vercel.app/" target="_blank">
-  <img src="https://i.imgur.com/cGjcL2V.png)"> 
+<a href="[https://deaglegenerator.vercel.app/](https://deaglememo.netlify.app/)" target="_blank">
+  <img src="https://i.imgur.com/HEBbjmj.png"> 
 </a>
 
 ## Password Generator
