@@ -1,4 +1,4 @@
-# <p align='center'> 🔗 - [_**PasswordGenerator**_](https://deaglegenerator.vercel.app/)</p>
+# <p align='center'> 🔗 _LIVE_ - [_**PasswordGenerator**_](https://deaglegenerator.vercel.app/)</p>
 
 ## Preview
 
