@@ -59,11 +59,7 @@ npm i
 ```sh
 npm run dev
 ```
-4. <b>Deploy</b>
 
-If you want to deploy this project on your domain, you can use <a href="https://vercel.com/" target="_blank">Vercel</a>
-
-
-## License
-<p align = 'center'> Distributed under the MIT license. <br> <b>dEagle PasswordGenerator</b>
+## Deployment
+**<p align='center'> Deployed on [_**Vercel**_](https://vercel.app/)</p>**
 
